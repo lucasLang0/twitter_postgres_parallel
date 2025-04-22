@@ -580,3 +580,294 @@ sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQ
 real	0m27.168s
 user	0m22.810s
 sys	0m2.066s
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+data/geoTwitter21-01-01.zip data/geoTwitter21-01-02.zip data/geoTwitter21-01-03.zip data/geoTwitter21-01-04.zip data/geoTwitter21-01-05.zip data/geoTwitter21-01-06.zip data/geoTwitter21-01-07.zip data/geoTwitter21-01-08.zip data/geoTwitter21-01-09.zip data/geoTwitter21-01-10.zip
+================================================================================
+load denormalized
+================================================================================
+COPY 10000
+COPY 10000
+COPY 10000
+COPY 10000
+COPY 10000
+COPY 10000
+COPY 10000
+COPY 10000
+COPY 10000
+COPY 10000
+
+real	0m23.617s
+user	0m4.060s
+sys	0m1.310s
+================================================================================
+load pg_normalized
+================================================================================
+
+2025-04-21 19:47:09.708309 data/geoTwitter21-01-01.zip
+2025-04-21 19:47:09.711913 data/geoTwitter21-01-01.zip - i= 0 id= 1344795471093633031
+2025-04-21 19:47:10.821156 data/geoTwitter21-01-01.zip - i= 1000 id= 1344795553989865473
+2025-04-21 19:47:11.750584 data/geoTwitter21-01-01.zip - i= 2000 id= 1344795640279265286
+2025-04-21 19:47:12.799605 data/geoTwitter21-01-01.zip - i= 3000 id= 1344795728426754049
+2025-04-21 19:47:14.059267 data/geoTwitter21-01-01.zip - i= 4000 id= 1344795817517981699
+2025-04-21 19:47:15.073006 data/geoTwitter21-01-01.zip - i= 5000 id= 1344795904700796930
+2025-04-21 19:47:16.237420 data/geoTwitter21-01-01.zip - i= 6000 id= 1344795992403681281
+2025-04-21 19:47:17.329035 data/geoTwitter21-01-01.zip - i= 7000 id= 1344796079125094401
+2025-04-21 19:47:18.421727 data/geoTwitter21-01-01.zip - i= 8000 id= 1344796167029346307
+2025-04-21 19:47:19.536955 data/geoTwitter21-01-01.zip - i= 9000 id= 1344796254472187911
+
+2025-04-21 19:47:21.293593 data/geoTwitter21-01-02.zip
+2025-04-21 19:47:21.295963 data/geoTwitter21-01-02.zip - i= 0 id= 1345157858732732416
+2025-04-21 19:47:22.376374 data/geoTwitter21-01-02.zip - i= 1000 id= 1345157965662322699
+2025-04-21 19:47:23.268452 data/geoTwitter21-01-02.zip - i= 2000 id= 1345158082922483720
+2025-04-21 19:47:24.340498 data/geoTwitter21-01-02.zip - i= 3000 id= 1345158200153280518
+2025-04-21 19:47:25.292376 data/geoTwitter21-01-02.zip - i= 4000 id= 1345158320651444225
+2025-04-21 19:47:26.340109 data/geoTwitter21-01-02.zip - i= 5000 id= 1345158438754672641
+2025-04-21 19:47:27.355464 data/geoTwitter21-01-02.zip - i= 6000 id= 1345158549882556416
+2025-04-21 19:47:28.156750 data/geoTwitter21-01-02.zip - i= 7000 id= 1345158670234112007
+2025-04-21 19:47:29.306444 data/geoTwitter21-01-02.zip - i= 8000 id= 1345158786491719680
+2025-04-21 19:47:30.280754 data/geoTwitter21-01-02.zip - i= 9000 id= 1345158904876032018
+
+2025-04-21 19:47:31.551624 data/geoTwitter21-01-03.zip
+2025-04-21 19:47:31.553488 data/geoTwitter21-01-03.zip - i= 0 id= 1345520246879346689
+2025-04-21 19:47:32.539568 data/geoTwitter21-01-03.zip - i= 1000 id= 1345520358007296002
+2025-04-21 19:47:33.758045 data/geoTwitter21-01-03.zip - i= 2000 id= 1345520465599733761
+2025-04-21 19:47:34.878484 data/geoTwitter21-01-03.zip - i= 3000 id= 1345520578309054465
+2025-04-21 19:47:36.313514 data/geoTwitter21-01-03.zip - i= 4000 id= 1345520688711434240
+2025-04-21 19:47:37.287065 data/geoTwitter21-01-03.zip - i= 5000 id= 1345520799013343233
+2025-04-21 19:47:38.545108 data/geoTwitter21-01-03.zip - i= 6000 id= 1345520903002730498
+2025-04-21 19:47:39.986569 data/geoTwitter21-01-03.zip - i= 7000 id= 1345521009101836290
+2025-04-21 19:47:41.308995 data/geoTwitter21-01-03.zip - i= 8000 id= 1345521104564215812
+2025-04-21 19:47:42.449151 data/geoTwitter21-01-03.zip - i= 9000 id= 1345521207790235648
+
+2025-04-21 19:47:44.211078 data/geoTwitter21-01-04.zip
+2025-04-21 19:47:44.213092 data/geoTwitter21-01-04.zip - i= 0 id= 1345882634702864384
+2025-04-21 19:47:45.240139 data/geoTwitter21-01-04.zip - i= 1000 id= 1345882733856260096
+2025-04-21 19:47:46.299970 data/geoTwitter21-01-04.zip - i= 2000 id= 1345882835887005697
+2025-04-21 19:47:47.249051 data/geoTwitter21-01-04.zip - i= 3000 id= 1345882930544050185
+2025-04-21 19:47:48.631639 data/geoTwitter21-01-04.zip - i= 4000 id= 1345883033593896961
+2025-04-21 19:47:49.706108 data/geoTwitter21-01-04.zip - i= 5000 id= 1345883134777307136
+2025-04-21 19:47:50.759457 data/geoTwitter21-01-04.zip - i= 6000 id= 1345883235813789696
+2025-04-21 19:47:51.934924 data/geoTwitter21-01-04.zip - i= 7000 id= 1345883341543804928
+2025-04-21 19:47:52.763345 data/geoTwitter21-01-04.zip - i= 8000 id= 1345883444585385990
+2025-04-21 19:47:53.657117 data/geoTwitter21-01-04.zip - i= 9000 id= 1345883542828556288
+
+2025-04-21 19:47:54.880960 data/geoTwitter21-01-05.zip
+2025-04-21 19:47:54.883138 data/geoTwitter21-01-05.zip - i= 0 id= 1346245022325346304
+2025-04-21 19:47:56.009180 data/geoTwitter21-01-05.zip - i= 1000 id= 1346245130425159681
+2025-04-21 19:47:56.877772 data/geoTwitter21-01-05.zip - i= 2000 id= 1346245244313067521
+2025-04-21 19:47:57.883810 data/geoTwitter21-01-05.zip - i= 3000 id= 1346245359744524289
+2025-04-21 19:47:59.494404 data/geoTwitter21-01-05.zip - i= 4000 id= 1346245471497375744
+2025-04-21 19:48:00.807092 data/geoTwitter21-01-05.zip - i= 5000 id= 1346245580096499715
+2025-04-21 19:48:02.083186 data/geoTwitter21-01-05.zip - i= 6000 id= 1346245693745360900
+2025-04-21 19:48:03.568733 data/geoTwitter21-01-05.zip - i= 7000 id= 1346245805280260097
+2025-04-21 19:48:05.063712 data/geoTwitter21-01-05.zip - i= 8000 id= 1346245913468170241
+2025-04-21 19:48:06.243340 data/geoTwitter21-01-05.zip - i= 9000 id= 1346246025791504386
+
+2025-04-21 19:48:08.118774 data/geoTwitter21-01-06.zip
+2025-04-21 19:48:08.120208 data/geoTwitter21-01-06.zip - i= 0 id= 1346607410463571971
+2025-04-21 19:48:09.100532 data/geoTwitter21-01-06.zip - i= 1000 id= 1346607509872599040
+2025-04-21 19:48:10.159394 data/geoTwitter21-01-06.zip - i= 2000 id= 1346607618035384320
+2025-04-21 19:48:11.097262 data/geoTwitter21-01-06.zip - i= 3000 id= 1346607723874549763
+2025-04-21 19:48:11.969558 data/geoTwitter21-01-06.zip - i= 4000 id= 1346607828253908994
+2025-04-21 19:48:13.055954 data/geoTwitter21-01-06.zip - i= 5000 id= 1346607937658081281
+2025-04-21 19:48:14.107248 data/geoTwitter21-01-06.zip - i= 6000 id= 1346608044478750720
+2025-04-21 19:48:15.310745 data/geoTwitter21-01-06.zip - i= 7000 id= 1346608156202381312
+2025-04-21 19:48:16.368038 data/geoTwitter21-01-06.zip - i= 8000 id= 1346608267175342080
+2025-04-21 19:48:17.621852 data/geoTwitter21-01-06.zip - i= 9000 id= 1346608375434510337
+
+2025-04-21 19:48:19.342645 data/geoTwitter21-01-07.zip
+2025-04-21 19:48:19.346843 data/geoTwitter21-01-07.zip - i= 0 id= 1346969798157197316
+2025-04-21 19:48:20.541389 data/geoTwitter21-01-07.zip - i= 1000 id= 1346969884819787776
+2025-04-21 19:48:21.608044 data/geoTwitter21-01-07.zip - i= 2000 id= 1346969972032024576
+2025-04-21 19:48:22.844841 data/geoTwitter21-01-07.zip - i= 3000 id= 1346970060900986887
+2025-04-21 19:48:24.182444 data/geoTwitter21-01-07.zip - i= 4000 id= 1346970148712849415
+2025-04-21 19:48:25.661005 data/geoTwitter21-01-07.zip - i= 5000 id= 1346970235673300992
+2025-04-21 19:48:26.958219 data/geoTwitter21-01-07.zip - i= 6000 id= 1346970323246219265
+2025-04-21 19:48:27.951526 data/geoTwitter21-01-07.zip - i= 7000 id= 1346970411884453892
+2025-04-21 19:48:29.320142 data/geoTwitter21-01-07.zip - i= 8000 id= 1346970500598165508
+2025-04-21 19:48:30.586997 data/geoTwitter21-01-07.zip - i= 9000 id= 1346970588720590851
+
+2025-04-21 19:48:32.133376 data/geoTwitter21-01-08.zip
+2025-04-21 19:48:32.135522 data/geoTwitter21-01-08.zip - i= 0 id= 1347332185930543104
+2025-04-21 19:48:33.129673 data/geoTwitter21-01-08.zip - i= 1000 id= 1347332282340798464
+2025-04-21 19:48:34.342860 data/geoTwitter21-01-08.zip - i= 2000 id= 1347332389136191489
+2025-04-21 19:48:35.422884 data/geoTwitter21-01-08.zip - i= 3000 id= 1347332491074437120
+2025-04-21 19:48:36.640152 data/geoTwitter21-01-08.zip - i= 4000 id= 1347332600864657408
+2025-04-21 19:48:38.212993 data/geoTwitter21-01-08.zip - i= 5000 id= 1347332706267496450
+2025-04-21 19:48:39.227221 data/geoTwitter21-01-08.zip - i= 6000 id= 1347332810445623298
+2025-04-21 19:48:40.104333 data/geoTwitter21-01-08.zip - i= 7000 id= 1347332913856196609
+2025-04-21 19:48:41.146809 data/geoTwitter21-01-08.zip - i= 8000 id= 1347333021385551872
+2025-04-21 19:48:42.298744 data/geoTwitter21-01-08.zip - i= 9000 id= 1347333130055806976
+
+2025-04-21 19:48:43.442332 data/geoTwitter21-01-09.zip
+2025-04-21 19:48:43.444027 data/geoTwitter21-01-09.zip - i= 0 id= 1347694574018453504
+2025-04-21 19:48:44.481147 data/geoTwitter21-01-09.zip - i= 1000 id= 1347694663432605696
+2025-04-21 19:48:45.502737 data/geoTwitter21-01-09.zip - i= 2000 id= 1347694753442312193
+2025-04-21 19:48:46.910010 data/geoTwitter21-01-09.zip - i= 3000 id= 1347694846962769926
+2025-04-21 19:48:48.225334 data/geoTwitter21-01-09.zip - i= 4000 id= 1347694940822896640
+2025-04-21 19:48:49.500534 data/geoTwitter21-01-09.zip - i= 5000 id= 1347695034255237120
+2025-04-21 19:48:50.410517 data/geoTwitter21-01-09.zip - i= 6000 id= 1347695129918722049
+2025-04-21 19:48:51.569987 data/geoTwitter21-01-09.zip - i= 7000 id= 1347695222709387268
+2025-04-21 19:48:52.716034 data/geoTwitter21-01-09.zip - i= 8000 id= 1347695321917349889
+2025-04-21 19:48:53.738403 data/geoTwitter21-01-09.zip - i= 9000 id= 1347695415504891904
+
+2025-04-21 19:48:55.187568 data/geoTwitter21-01-10.zip
+2025-04-21 19:48:55.189609 data/geoTwitter21-01-10.zip - i= 0 id= 1348056961783312384
+2025-04-21 19:48:56.524540 data/geoTwitter21-01-10.zip - i= 1000 id= 1348057063004524545
+2025-04-21 19:48:57.523405 data/geoTwitter21-01-10.zip - i= 2000 id= 1348057174644293636
+2025-04-21 19:48:58.775449 data/geoTwitter21-01-10.zip - i= 3000 id= 1348057285017350145
+2025-04-21 19:48:59.932683 data/geoTwitter21-01-10.zip - i= 4000 id= 1348057392710299648
+2025-04-21 19:49:01.217609 data/geoTwitter21-01-10.zip - i= 5000 id= 1348057506946441219
+2025-04-21 19:49:02.059747 data/geoTwitter21-01-10.zip - i= 6000 id= 1348057618066116614
+2025-04-21 19:49:03.107691 data/geoTwitter21-01-10.zip - i= 7000 id= 1348057727348699137
+2025-04-21 19:49:04.179161 data/geoTwitter21-01-10.zip - i= 8000 id= 1348057835763068936
+2025-04-21 19:49:05.093380 data/geoTwitter21-01-10.zip - i= 9000 id= 1348057943732858880
+
+real	1m56.934s
+user	0m43.297s
+sys	0m7.377s
+================================================================================
+load pg_normalized_batch
+================================================================================
+2025-04-21 19:49:06.735274 data/geoTwitter21-01-01.zip
+2025-04-21 19:49:08.504811 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:49:11.366426 insert_tweets i= 1
+2025-04-21 19:49:13.057852 insert_tweets i= 2
+2025-04-21 19:49:14.694023 insert_tweets i= 3
+2025-04-21 19:49:15.654083 insert_tweets i= 4
+2025-04-21 19:49:17.240154 insert_tweets i= 5
+2025-04-21 19:49:18.621733 insert_tweets i= 6
+2025-04-21 19:49:20.150086 insert_tweets i= 7
+2025-04-21 19:49:21.060083 insert_tweets i= 8
+2025-04-21 19:49:23.012733 insert_tweets i= 9
+2025-04-21 19:49:26.002404 data/geoTwitter21-01-02.zip
+2025-04-21 19:49:27.414380 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:49:29.590174 insert_tweets i= 1
+2025-04-21 19:49:30.876150 insert_tweets i= 2
+2025-04-21 19:49:32.202579 insert_tweets i= 3
+2025-04-21 19:49:33.124418 insert_tweets i= 4
+2025-04-21 19:49:34.536925 insert_tweets i= 5
+2025-04-21 19:49:36.094071 insert_tweets i= 6
+2025-04-21 19:49:37.793162 insert_tweets i= 7
+2025-04-21 19:49:39.006156 insert_tweets i= 8
+2025-04-21 19:49:40.367961 insert_tweets i= 9
+2025-04-21 19:49:44.570069 data/geoTwitter21-01-03.zip
+2025-04-21 19:49:45.763698 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:49:47.698332 insert_tweets i= 1
+2025-04-21 19:49:49.273214 insert_tweets i= 2
+2025-04-21 19:49:50.957265 insert_tweets i= 3
+2025-04-21 19:49:52.658501 insert_tweets i= 4
+2025-04-21 19:49:53.912572 insert_tweets i= 5
+2025-04-21 19:49:55.268631 insert_tweets i= 6
+2025-04-21 19:49:57.388014 insert_tweets i= 7
+2025-04-21 19:49:58.666044 insert_tweets i= 8
+2025-04-21 19:50:00.526283 insert_tweets i= 9
+2025-04-21 19:50:04.423564 data/geoTwitter21-01-04.zip
+2025-04-21 19:50:05.674169 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:50:07.744851 insert_tweets i= 1
+2025-04-21 19:50:09.630297 insert_tweets i= 2
+2025-04-21 19:50:11.383044 insert_tweets i= 3
+2025-04-21 19:50:12.725562 insert_tweets i= 4
+2025-04-21 19:50:14.120027 insert_tweets i= 5
+2025-04-21 19:50:15.805407 insert_tweets i= 6
+2025-04-21 19:50:17.172262 insert_tweets i= 7
+2025-04-21 19:50:18.260231 insert_tweets i= 8
+2025-04-21 19:50:19.729170 insert_tweets i= 9
+2025-04-21 19:50:23.534958 data/geoTwitter21-01-05.zip
+2025-04-21 19:50:25.255097 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:50:28.067056 insert_tweets i= 1
+2025-04-21 19:50:29.737725 insert_tweets i= 2
+2025-04-21 19:50:31.447047 insert_tweets i= 3
+2025-04-21 19:50:32.314056 insert_tweets i= 4
+2025-04-21 19:50:34.108167 insert_tweets i= 5
+2025-04-21 19:50:35.967372 insert_tweets i= 6
+2025-04-21 19:50:37.765637 insert_tweets i= 7
+2025-04-21 19:50:38.912802 insert_tweets i= 8
+2025-04-21 19:50:40.753193 insert_tweets i= 9
+2025-04-21 19:50:45.781685 data/geoTwitter21-01-06.zip
+2025-04-21 19:50:46.802595 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:50:49.799221 insert_tweets i= 1
+2025-04-21 19:50:51.294207 insert_tweets i= 2
+2025-04-21 19:50:53.169044 insert_tweets i= 3
+2025-04-21 19:50:54.517253 insert_tweets i= 4
+2025-04-21 19:50:56.291814 insert_tweets i= 5
+2025-04-21 19:50:58.142168 insert_tweets i= 6
+2025-04-21 19:50:59.755749 insert_tweets i= 7
+2025-04-21 19:51:00.926287 insert_tweets i= 8
+2025-04-21 19:51:02.933241 insert_tweets i= 9
+2025-04-21 19:51:07.528506 data/geoTwitter21-01-07.zip
+2025-04-21 19:51:08.541763 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:51:10.711501 insert_tweets i= 1
+2025-04-21 19:51:12.806273 insert_tweets i= 2
+2025-04-21 19:51:14.360837 insert_tweets i= 3
+2025-04-21 19:51:15.821446 insert_tweets i= 4
+2025-04-21 19:51:17.323700 insert_tweets i= 5
+2025-04-21 19:51:19.242987 insert_tweets i= 6
+2025-04-21 19:51:20.972360 insert_tweets i= 7
+2025-04-21 19:51:22.348736 insert_tweets i= 8
+2025-04-21 19:51:23.713828 insert_tweets i= 9
+2025-04-21 19:51:27.064262 data/geoTwitter21-01-08.zip
+2025-04-21 19:51:28.669416 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:51:31.410090 insert_tweets i= 1
+2025-04-21 19:51:33.084625 insert_tweets i= 2
+2025-04-21 19:51:34.703595 insert_tweets i= 3
+2025-04-21 19:51:36.267421 insert_tweets i= 4
+2025-04-21 19:51:37.268667 insert_tweets i= 5
+2025-04-21 19:51:38.814037 insert_tweets i= 6
+2025-04-21 19:51:40.601458 insert_tweets i= 7
+2025-04-21 19:51:41.928379 insert_tweets i= 8
+2025-04-21 19:51:44.061417 insert_tweets i= 9
+2025-04-21 19:51:48.089339 data/geoTwitter21-01-09.zip
+2025-04-21 19:51:49.219529 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:51:51.643183 insert_tweets i= 1
+2025-04-21 19:51:53.008976 insert_tweets i= 2
+2025-04-21 19:51:54.507980 insert_tweets i= 3
+2025-04-21 19:51:55.528087 insert_tweets i= 4
+2025-04-21 19:51:57.166431 insert_tweets i= 5
+2025-04-21 19:51:58.506156 insert_tweets i= 6
+2025-04-21 19:52:00.033860 insert_tweets i= 7
+2025-04-21 19:52:01.360385 insert_tweets i= 8
+2025-04-21 19:52:03.263403 insert_tweets i= 9
+2025-04-21 19:52:07.071919 data/geoTwitter21-01-10.zip
+2025-04-21 19:52:08.238523 insert_tweets i= 0
+/home/llang/twitter_postgres_parallel/load_tweets_batch.py:394: RemovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  with connection.begin() as trans:
+2025-04-21 19:52:10.772727 insert_tweets i= 1
+2025-04-21 19:52:12.437193 insert_tweets i= 2
+2025-04-21 19:52:14.442736 insert_tweets i= 3
+2025-04-21 19:52:15.966035 insert_tweets i= 4
+2025-04-21 19:52:17.581971 insert_tweets i= 5
+2025-04-21 19:52:19.200214 insert_tweets i= 6
+2025-04-21 19:52:20.331345 insert_tweets i= 7
+2025-04-21 19:52:21.905900 insert_tweets i= 8
+2025-04-21 19:52:23.775294 insert_tweets i= 9
+
+real	3m20.544s
+user	2m27.094s
+sys	0m8.398s
