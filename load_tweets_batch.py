@@ -183,7 +183,7 @@ def _insert_tweets(connection,input_tweets):
         if tweet['user']['url'] is None:
             user_id_urls = None
         else:
-            user_id_urls = get_id_urls(tweet['user']['url'])
+            user_id_urls = tweet['user']['url']
 
         users.append({
             'id_users':tweet['user']['id'],
@@ -296,10 +296,10 @@ def _insert_tweets(connection,input_tweets):
             urls = tweet['entities']['urls']
 
         for url in urls:
-            id_urls = get_id_urls(url['expanded_url'])
+            id_urls = url['expanded_url']
             tweet_urls.append({
                 'id_tweets':tweet['id'],
-                'id_urls':id_urls,
+                'url':remove_nulls(id_urls)
                 })
 
         ########################################
@@ -355,10 +355,10 @@ def _insert_tweets(connection,input_tweets):
                 media = []
 
         for medium in media:
-            id_urls = get_id_urls(medium['media_url'])
+            id_urls = medium['media_url']
             tweet_media.append({
                 'id_tweets':tweet['id'],
-                'id_urls':id_urls,
+                'url':remove_nulls(id_urls),
                 'type':medium['type']
                 })
 
